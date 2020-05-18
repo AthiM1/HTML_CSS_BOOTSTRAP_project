@@ -1,0 +1,167 @@
+body{
+    text-align: center;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    margin-bottom: 50px;
+}
+
+.first{
+ display: flex;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+header {
+    background-color: #666;
+    padding: 10px;
+    margin: 5px;
+    
+    
+  
+  }
+.block {
+    
+    background: #ccc;
+    padding: 200px;
+    
+  }
+  .container{
+   
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    height: 200px;
+    margin-left: 15px;
+
+  }
+  .container1{
+    
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+  }
+.container2{
+    
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    
+}
+.container3{
+  
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+}
+
+.conta{
+   
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    height: 200px;
+    margin-left: 15px;
+    margin :10px;
+
+  }
+  .conta1{
+   
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+  }
+.conta2{
+    
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+    
+}
+.conta3{
+    
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+}
+.conta4{
+   
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+}
+.conta5{
+    
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+}
+.cont{
+    width: 50px;
+    height: 50px;
+    
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 500px;
+    margin-top: 10px;
+    
+  }
+  .cont1{
+    width: 50px;
+    height: 50px;
+    
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+  }
+.cont2{
+    width: 50px;
+    height: 50px;
+  
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+    
+}
+.cont3{
+   
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border: 10px;
+    border-color:white ;
+    margin-left: 20px;
+    margin :10px;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border: 20px;
+    margin:20px ;
+  }
